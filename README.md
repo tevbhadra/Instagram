@@ -1,7 +1,9 @@
 # InstagramPosts_PopularityPrediction
 The aim of the project is to use Social Media(Instagram) data to create marketing campaigns.
 
-Dataset I worked on had Instagram posts Url's and some basic features extracted from them. Steps Involved in the Project:
+Dataset I worked on had Instagram posts Url's and some basic features extracted from them. 
+
+Steps Involved in the Project:
 
 1) Extract Image URL's in the Instagram posts using Beautiful Soup.
 
