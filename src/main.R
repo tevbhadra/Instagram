@@ -1,7 +1,6 @@
 rm(list=ls())
 setwd("~/qcri_instagram/src")
 source("setup.R")
-source("model.R")
 source("labelling.R")
 source("featurize.R")
 
