@@ -11,7 +11,7 @@ Steps Involved in the Project:
 
 3) Generate an Image feature matrix by selecting the important labels in the data. [File Name: generate_img_feature_matrix.py]
 
-4) Extract Textual features in the data by generating TFIDF vectors, Document Term matrices on the Instagram Captions and Hashtags data. [File Name: featurize.R]
+4) Extract Textual features in the data by generating using Natural Language Processing, i.e., TFIDF vectors, Document Term matrices on the Instagram Captions and Hashtags data. [File Name: featurize.R]
 
 5) Generate Prediction Labels based on the number of likes, comments for the posts. [File Name: labelling.R]
 
