@@ -1,8 +1,8 @@
 # InstagramPosts_PopularityPrediction
 The aim of the project is to use Social Media(Instagram) data to create marketing campaigns.
 
-Steps Involved in the Project:
-Dataset I worked on had Instagram posts Url's and some basic features extracted from them. 
+Dataset I worked on had Instagram posts Url's and some basic features extracted from them. Steps Involved in the Project:
+
 1) Extract Image URL's in the Instagram posts using Beautiful Soup.
 
 2) Use Google Cloud Vision API to generate Labels for every image with corresponding scores for each label. [File Name: scrapping_image_features.py]
